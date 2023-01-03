@@ -1,0 +1,44 @@
+Configuration Code For ISP3100,Standard,Add On
+ISP3100-C07,ISP3100-S07,"ISP31-MCRSET,ISP31-3DVIEW,ISP31-PCRAIL,ISP31-ION,ISP31-BCRSET,ISP31-COVER"
+Module,Item description,MB Cost,Day,Man,Rate,AB Cost,STK Cost (MYR),ENG,Pack,Total Cost,EXCH,STK Cost (USD),Mark Up,List Price,Note
+ISP3100-S07,"ISP3100 - 3rd Optical Inspection System with Configuration of ISP31-S07
+- Programmable XY Stage with Stepper Motor Driven
+- Programmable Universally Adaptable Elevator with 210mm Magazine Base Length 
+- Programmable Motorized Loader 
+- Programmable Motorized Soft Pusher (Flag Type) 
+- Programmable Pneumatic Pair Grippers (Standard Type)
+- User Interface by Function Keypad and Joystick  
+- Nikon Zoom Stereo Microscope (SMZ745-T) with One Pair of 10x Eyepiece
+- 1.2MP USB3 CMOS Camera
+- Bottom Elevator Cover 
+- Relocate Keyboard and Button Position (Bottom to Top) 
+- Relocate AC Input Connector Position 
+- Standard Industrial Grade PC (Intel Pentium G3420 Processor 3.2GHZ, 4GB RAM, 500GB HDD)
+- Windows 10 Pro Operating System ",73000,25,2,440,22000,95000,2850.0,1501,99351.0,4,24837.75,0.40005434799999995,41400,"For Amkor Tech. Philippines P1 & P3
+For Rohm Electronics Philippines"
+ISP31-MCRSET,"2D Matrix Code Reader  
+ Integrated LED lighting.
+ 1/3-inch CCD camera.
+ Software commands via Ethernet and RS232; TCP/IP protocol
+ Software integration for data matrix after acquires the matrix codes for data registration and upload to the host computer.
+ Included mounting, frame and panel for 2D matrix code reader.",9000,8.0,1,440,3520.0,12520.0,375.6,304.0,13199.6,4,3299.9,0.500015152,6600
+ISP31-3DVIEW,"3D Rotator Attachment Set, Inclusive of
+ Standard 3D Rotator.
+ Mounting adapter and bracket.
+ 2D/3D viewing available.
+ 3D oblique viewing which can engage and rotate 360 degree under microscope.
+ 200mm Diameter Ring LED Light Source. ",6000,7.0,1,440,3080.0,9080.0,272.4,477.0,9829.4,4,2457.35,0.44151136399999996,4400
+ISP31-PCRAIL,"Motorized Center Rail Lead Frame Support
+ Programmable motorized Y axis center rail support to support the bottom of loaded lead frame during inspection (Applicable for thin and high war-page lead frame). 
+[Note: The range of lead frame width system capable to handle become 50mm (min) to 100mm (max)].",4500,5.0,1,440,2200.0,6700.0,201.0,250.0,7151.0,4,1787.75,0.458257576,3300
+ISP31-COVER,"Acrylic Cover Covering Microscope Inspection Area 
+ Acrylic cover covering microscope inspection area to minimize effect caused by contamination. ",600,1.0,1,440,440.0,1040.0,31.2,249.5,1320.7,4,330.175,0.39968181799999997,550
+ISP31-BCRSET,"Handheld Barcode Scanner  
+ 1x handheld barcode scanner to scan the production lot barcode manually by operator, inclusive of software integration. ",600,1.0,1,440,440.0,1040.0,31.2,249.5,1320.7,4,330.175,0.39968181799999997,550
+ISP31-ION,"Ionizer Blower and Suction Module, Inclusive of
+ 1x Fan type ionizer 
+ 1x Air blower
+ 1x Vacuum suction module.",5000,1.0,1,440,440.0,5440.0,163.2,100.0,5703.2,4,1425.8,0.42968,2500
+ISP31-ION,"Air Blower and Suction Module, Inclusive of
+ 1x Air blower
+ 1x Vacuum suction module.",2500,1.0,1,440,440.0,2940.0,88.2,100.0,3128.2,4,782.05,0.478633333,1500
